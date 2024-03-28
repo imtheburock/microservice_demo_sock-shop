@@ -1,0 +1,3 @@
+git clone https://github.com/imtheburock/microservice_demo_sock-shop
+cd microservice_demo_sock-shop/deploy/kubernetes
+kubectl apply -f complete-demo.yaml 
